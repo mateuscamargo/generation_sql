@@ -1,6 +1,6 @@
 CREATE DATABASE db_recursoshumanos;
 
-USE db_quitanda;
+USE db_recursoshumanos;
 
 CREATE TABLE tb_colaborador(
 id BIGINT AUTO_INCREMENT,
