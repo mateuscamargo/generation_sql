@@ -3,7 +3,7 @@ CREATE DATABASE db_recursoshumanos;
 USE db_recursoshumanos;
 
 CREATE TABLE tb_colaborador(
-id BIGINT AUTO_INCREMENT,
+	id BIGINT AUTO_INCREMENT,
     nome VARCHAR(255) NOT NULL,
     cpf VARCHAR(14) NOT NULL,
     datanascimento DATE NOT NULL,
